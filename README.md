@@ -1,5 +1,6 @@
 # 🛍️ Retail Sales Prediction & Business Intelligence Dashboard
-
+https://retail-sales-dashboard-3fkbsszgz7w2azsusgqpr2.streamlit.app/
+model app live link
 [![Python Version](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![Plotly](https://img.shields.io/badge/Plotly-5.0+-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
